@@ -2,8 +2,6 @@
 
 > Ini adalah aplikasi untuk memenuhi technical test untuk Nobi.
 
-This library was written to simplify and automate Zip files management using [PHP ZipArchive](http://php.net/manual/en/class.ziparchive.php).
-
 Aplikasi ini memiliki fitur untuk membuat user (user register), user login, user transaction
 
 ### Installation
