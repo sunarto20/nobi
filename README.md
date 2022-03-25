@@ -35,6 +35,11 @@ buka file .env, kemudian setting database sesuai dengan configurasi database mas
     DB_PASSWORD=
 
 Migrasi database dan seeder
+
     php artisan migrate --seed
 
+
+Untuk melihat configurasi postman, ada di dalam folder
+
+    ./__POSTMAN
 
